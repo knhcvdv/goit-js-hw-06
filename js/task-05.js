@@ -9,4 +9,3 @@ const onOutputElem = event => {
         }
     };
 inputElem.addEventListener('input', onOutputElem);
- 
