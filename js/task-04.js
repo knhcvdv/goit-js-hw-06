@@ -17,3 +17,4 @@ const onClickDecrement = () => {
 
 btnDecrementElem.addEventListener("click", onClickDecrement);
 btnIncrementElem.addEventListener('click', onClickIncrement);
+ 
