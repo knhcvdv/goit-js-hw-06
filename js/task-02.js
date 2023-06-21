@@ -16,4 +16,4 @@ const liItemElem = ingredients.map(text => {
   return liElem
 })
 
-ulElem.append(...liItemElem)
+ulElem.append(...liItemElem) 
