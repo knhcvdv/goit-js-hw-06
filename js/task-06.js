@@ -11,4 +11,4 @@ const findLengthOnInputElem = (event) => {
     }
 };
 
-userInputElem.addEventListener('blur', findLengthOnInputElem);
+userInputElem.addEventListener('blur', findLengthOnInputElem); 
